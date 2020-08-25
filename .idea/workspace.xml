@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="974c39dc-f54e-4278-8da6-dff58848e4f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gGNGJOwFEUEQVzUDQ4Bb1ezciR" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="KafkaConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cloudurable.kafka.KafkaConsumer" />
+      <module name="lab4.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cloudurable.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KafkaConsumer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="974c39dc-f54e-4278-8da6-dff58848e4f4" name="Default Changelist" comment="" />
+      <created>1597736872116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597736872116</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="676" y="341" width="557" height="408" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597737068646">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state x="676" y="341" width="557" height="408" key="#com.intellij.fileTypes.FileTypeChooser/0.24.1920.1032@0.24.1920.1032" timestamp="1597737068646" />
+    <state x="667" y="268" width="575" height="673" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1597737735138">
+      <screen x="0" y="24" width="1920" height="1152" />
+    </state>
+    <state x="667" y="268" width="575" height="673" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.24.1920.1152@0.24.1920.1152" timestamp="1597737735138" />
+    <state x="738" y="303" width="424" height="496" key="FileChooserDialogImpl" timestamp="1597736967855">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state x="738" y="303" width="424" height="496" key="FileChooserDialogImpl/0.24.1920.1032@0.24.1920.1032" timestamp="1597736967855" />
+    <state x="821" y="499" width="277" height="212" key="Github.ShareDialog" timestamp="1598340792673">
+      <screen x="0" y="24" width="3840" height="1152" />
+    </state>
+    <state x="821" y="499" width="277" height="212" key="Github.ShareDialog/0.24.3840.1152@0.24.3840.1152" timestamp="1598340792673" />
+    <state width="1874" height="499" key="GridCell.Tab.0.bottom" timestamp="1597754550966">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="499" key="GridCell.Tab.0.bottom/0.24.1920.1032@0.24.1920.1032" timestamp="1597754550966" />
+    <state width="1874" height="378" key="GridCell.Tab.0.bottom/0.24.1920.1152@0.24.1920.1152" timestamp="1597741753117" />
+    <state width="1874" height="499" key="GridCell.Tab.0.center" timestamp="1597754550966">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="499" key="GridCell.Tab.0.center/0.24.1920.1032@0.24.1920.1032" timestamp="1597754550966" />
+    <state width="1874" height="378" key="GridCell.Tab.0.center/0.24.1920.1152@0.24.1920.1152" timestamp="1597741753115" />
+    <state width="1874" height="499" key="GridCell.Tab.0.left" timestamp="1597754550965">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="499" key="GridCell.Tab.0.left/0.24.1920.1032@0.24.1920.1032" timestamp="1597754550965" />
+    <state width="1874" height="378" key="GridCell.Tab.0.left/0.24.1920.1152@0.24.1920.1152" timestamp="1597741753114" />
+    <state width="1874" height="499" key="GridCell.Tab.0.right" timestamp="1597754550966">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="499" key="GridCell.Tab.0.right/0.24.1920.1032@0.24.1920.1032" timestamp="1597754550966" />
+    <state width="1874" height="378" key="GridCell.Tab.0.right/0.24.1920.1152@0.24.1920.1152" timestamp="1597741753115" />
+    <state width="1874" height="330" key="GridCell.Tab.1.bottom" timestamp="1597754167217">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="330" key="GridCell.Tab.1.bottom/0.24.1920.1032@0.24.1920.1032" timestamp="1597754167217" />
+    <state width="1874" height="378" key="GridCell.Tab.1.bottom/0.24.1920.1152@0.24.1920.1152" timestamp="1597741753118" />
+    <state width="1874" height="330" key="GridCell.Tab.1.center" timestamp="1597754167215">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="330" key="GridCell.Tab.1.center/0.24.1920.1032@0.24.1920.1032" timestamp="1597754167215" />
+    <state width="1874" height="378" key="GridCell.Tab.1.center/0.24.1920.1152@0.24.1920.1152" timestamp="1597741753118" />
+    <state width="1874" height="330" key="GridCell.Tab.1.left" timestamp="1597754167215">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="330" key="GridCell.Tab.1.left/0.24.1920.1032@0.24.1920.1032" timestamp="1597754167215" />
+    <state width="1874" height="378" key="GridCell.Tab.1.left/0.24.1920.1152@0.24.1920.1152" timestamp="1597741753117" />
+    <state width="1874" height="330" key="GridCell.Tab.1.right" timestamp="1597754167215">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="330" key="GridCell.Tab.1.right/0.24.1920.1032@0.24.1920.1032" timestamp="1597754167215" />
+    <state width="1874" height="378" key="GridCell.Tab.1.right/0.24.1920.1152@0.24.1920.1152" timestamp="1597741753118" />
+    <state x="449" y="212" width="1022" height="730" key="SettingsEditor" timestamp="1597753011712">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state x="449" y="212" width="1022" height="730" key="SettingsEditor/0.24.1920.1032@0.24.1920.1032" timestamp="1597753011712" />
+    <state x="449" y="234" width="1022" height="742" key="SettingsEditor/0.24.1920.1152@0.24.1920.1152" timestamp="1597739324101" />
+    <state x="732" y="379" width="446" height="452" key="chooseDestDirectoryDialog" timestamp="1597737836138">
+      <screen x="0" y="24" width="1920" height="1152" />
+    </state>
+    <state x="732" y="379" width="446" height="452" key="chooseDestDirectoryDialog/0.24.1920.1152@0.24.1920.1152" timestamp="1597737836138" />
+    <state x="269" y="243" width="1372" height="604" key="new project wizard" timestamp="1597737031187">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state x="269" y="243" width="1372" height="604" key="new project wizard/0.24.1920.1032@0.24.1920.1032" timestamp="1597737031187" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/cloudurable/kafka/KafkaConsumer.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/cloudurable/kafka/KafkaConsumer.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/cloudurable/kafka/KafkaConsumer.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/cloudurable/kafka/KafkaConsumer.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
